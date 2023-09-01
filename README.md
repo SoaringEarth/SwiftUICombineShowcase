@@ -1,4 +1,4 @@
-# SwiftUICombineShowcase
+# SwiftUI x Combine Showcase
 
 The SwiftUICombine Showcase is a small project designed to demonstrate the power and versatility of SwiftUI and Combine, two essential frameworks in the world of iOS app development. This project serves as a learning resource and source of inspiration for both beginner and intermediate iOS developers.
 
